@@ -1,1 +1,1 @@
-FaceDetectionHaar
+FaceDetection
